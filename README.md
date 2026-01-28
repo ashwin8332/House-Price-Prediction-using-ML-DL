@@ -129,7 +129,18 @@ Deep learning regression using neural networks
 
 Feature importance visualization
 
-**🙌 Acknowledgements**
-Kaggle for providing the dataset and competition
+## 👤 Author
 
-**Scikit-learn documentation and open-source community**
+**Ashwin Vincent Koonissery**
+
+GitHub: [https://github.com/ashwin8332](https://github.com/ashwin8332)
+
+---
+
+## 📜 License
+
+This project is intended for **educational and research purposes**. Please follow the dataset’s original license terms when using it for commercial applications.
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
